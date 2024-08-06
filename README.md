@@ -89,3 +89,22 @@
 ### 5. 상품 정보
 
 ![image](https://github.com/user-attachments/assets/8f994960-3b8c-4585-bea9-c2e76353a043)
+
+### 6. 상품 주문 및 장바구니
+
+![image](https://github.com/user-attachments/assets/acec0ade-2ab5-4812-a81f-4b389ac97813)
+<br>
+![image](https://github.com/user-attachments/assets/90fad883-3dcb-4424-8eb7-e69917acb66e)
+
+### 7. 주문 및 결제
+
+![image](https://github.com/user-attachments/assets/833a1ea1-eebf-4ac6-8901-bac36e06db34)
+
+### 8. 개인 정보 및 변경
+
+![image](https://github.com/user-attachments/assets/81ae23d1-f23d-4300-b739-9e86688f7ca2)
+<br>
+![image](https://github.com/user-attachments/assets/c7214806-8b75-4315-baa2-0a6edf72dbb1)
+<br>
+![image](https://github.com/user-attachments/assets/8ed0719c-8c56-49c2-9e30-ebfe90a965b2)
+
