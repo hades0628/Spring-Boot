@@ -19,7 +19,7 @@
           </div>
     </div>
     
-# 🛫 Shopping Mall
+# 🛫 Shopping Mall(Spring Boot JPA)
 
 
 
@@ -63,20 +63,7 @@
 
 
 
-# 🔑 핵심기능
 
-### 1. 여행장소 검색
-
-> 사용자가 여행장소를 검색하면 DB에서 여행장소를 검색하고  
-> DB에 없는 장소이면 네이버지도에서 검색하여 최상단의 장소의 정보를 가져오고 DB에 저장합니다.  
-> [코드 보러가기](https://github.com/kimphysicsman/MyLittelTrip_backend/blob/5aa46e9ed2065045df17cc45baa41a9a2901b46b/recommend/functions/parsing.py#L64)
-
-### 2. 최단 여행경로 찾기 & 여행일정 만들기
-
-> 사용자가 입력한 여행장소들을 바탕으로 여행일정을 만듭니다.  
-> [코드 보러가기](https://github.com/kimphysicsman/MyLittelTrip_backend/blob/5aa46e9ed2065045df17cc45baa41a9a2901b46b/recommend/functions/schedule.py#L14)
-
-<br />
 
 # 📕 기타 자료
 
@@ -84,3 +71,21 @@
 ### 1. 메인화면
 
 ![image](https://github.com/user-attachments/assets/8c32b727-52a8-4fef-bbbe-b74da95daa69)
+
+### 2. 카카오 로그인
+
+![image](https://github.com/user-attachments/assets/f9cc6fa1-75c6-46cb-86db-1a2d5367de23)
+
+### 3. 회원가입
+
+![image](https://github.com/user-attachments/assets/3ac34af6-6ecb-4910-bccc-bc07ae9aae75)
+<br>
+![image](https://github.com/user-attachments/assets/26ea28a4-4d4c-4425-a8e2-1103f3e84503)
+
+### 4. 관리자 상품 등록
+
+![image](https://github.com/user-attachments/assets/2c686542-ce21-46b1-99a0-dc108a57ed88)
+
+### 5. 상품 정보
+
+![image](https://github.com/user-attachments/assets/8f994960-3b8c-4585-bea9-c2e76353a043)
