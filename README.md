@@ -19,10 +19,9 @@
           </div>
     </div>
     
-# 🛫 MyLittelTrip
+# 🛫 Shopping Mall
 
-여행일정 추천받기  
-https://mylittletrip-4416.web.app
+
 
 <br />
 
@@ -30,20 +29,20 @@ https://mylittletrip-4416.web.app
 
 ### 1. 제작기간
 
-> 2022.07.07 ~ 09.02
+> 2024.06.24 ~ 07.05
 
 ### 2. 참여 인원
 
 > |                    Name                    |  Position   |
 > | :----------------------------------------: | :---------: |
-> | [김동우](https://github.com/kimphysicsman) | Back, Front |
-> |   [김진수](https://github.com/creamone)    |    Back     |
-> |     [박진우](https://github.com/J1NU2)     |    Back     |
-> |    [최민기](https://github.com/mankic)     |    Back     |
+> | [김혁](https://github.com/hades0628) | Back |
+> |   [임재현]    |    Back, Front     |
+> |     [이민석]    |    Back     |
+
 
 ### 3. 역할 분담
 
-> - 김동우 : 여행일정 추천 기능 + Front 구성
+> - 김혁 : 쇼핑몰 메인페이지 + 회원관리 구성
 
 <br />
 
@@ -51,14 +50,14 @@ https://mylittletrip-4416.web.app
 
 ### 1. Back-end
 
-> python3  
-> Django  
-> Django-rest-framwork
+> Spring Boot(Java)  
+> IntelliJ 
+> MySQL
 
 ### 2. Front-end
 
-> React.js  
-> Node.js
+> BootStrap  
+> html
 
 <br />
 
