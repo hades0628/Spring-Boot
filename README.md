@@ -64,7 +64,10 @@
 
 # 📕 프로젝트 소개
 
-### ●&nbsp;    
+### ●&nbsp;    ERD
+
+![image](https://github.com/user-attachments/assets/e434c74a-0726-4c4f-a3dc-0d97358debe8)
+
 
 
 ### 1. 메인화면
