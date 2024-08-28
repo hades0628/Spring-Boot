@@ -51,13 +51,14 @@
 ### 1. Back-end
 
 > Spring Boot(Java)  
-> IntelliJ 
+> IntelliJ   
 > MySQL
 
 ### 2. Front-end
 
 > BootStrap  
-> html
+> html   
+> jsp
 
 <br />
 
