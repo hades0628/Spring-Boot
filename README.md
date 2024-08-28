@@ -63,9 +63,10 @@
 
 ### ⚙️ 개발 환경
 - `Java 11`
-- `JDK 5.2.7`
-- **Framework** : Eclipse
-- **Database** : Oracle DB(11xe)
+- `JDK 1.8.0`
+- **IDE** : STS 3.9
+- **Framework** : Springboot(2.x)
+- **Database** : MySQL
 - **ORM** : Mybatis
 
 
