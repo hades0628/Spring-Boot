@@ -63,7 +63,7 @@
 
 ### ⚙️ 개발 환경
 - `Java 11`
-- `JDK 1.8.0`
+- `JDK 2.7.1`
 - **IDE** : STS 3.9
 - **Framework** : Springboot(2.x)
 - **Database** : MySQL
